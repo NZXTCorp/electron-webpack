@@ -1,6 +1,6 @@
 {
   "name": "@nzxt/electron-webpack",
-  "version": "2.8.2",
+  "version": "2.8.5-dev",
   "license": "MIT",
   "author": "Vladimir Krivosheev <develar@gmail.com>",
   "main": "out/main.js",
